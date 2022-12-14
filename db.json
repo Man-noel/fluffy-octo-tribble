@@ -1,0 +1,9 @@
+{
+    "notas": [
+      {
+        "bananas": 1,
+        "titulo": "Estudar JS",
+        "status": true
+      }
+    ]
+  }
